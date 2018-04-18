@@ -29,7 +29,7 @@ contract TokenERC20 {
   }
 
   function transfer(address _to, uint256 _value) public {
-    _transfer(msg.sende, _to, _value);
+    _transfer(msg.sender, _to, _value);
   }
 
 }
