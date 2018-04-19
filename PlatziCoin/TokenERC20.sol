@@ -31,7 +31,6 @@ contract TokenERC20 {
   function transfer(address _to, uint256 _value) public {
     _transfer(msg.sender, _to, _value);
   }
-
 }
 
 interface TokenERC20interface {
@@ -39,7 +38,6 @@ interface TokenERC20interface {
 }
 
 contract BasicContract {
-
   function tranferToken() public {
     TokenERC20interface token = TokenERC20interface(0x36); // Idetificador del Contrato para implementar Interfaces
     token.transfer(0xdd,20); // Direccion para tenferir 
