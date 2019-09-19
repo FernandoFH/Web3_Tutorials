@@ -28,3 +28,28 @@ version2Hash = hash(version2Changes + version1Hash)
 - The block includes a "winning lottery ticket", the nonce.
 
 ### A Brief History of Blockchain
+  
+#### Public Blockchains
+- Accessibility.
+- No hierarchy.
+- Crypto-economic incentives.
+- Full decentralisation.
+
+#### Introduction to Bitcoin
+- Nakamoto describes Bitcoin as a peer-to-peer (P2P) version of electronic cash.
+- Proof-of-work (PoW).
+- Each block includes: 
+    - The previous hash 
+    - Nonce (a random set of 1s and 0s). 
+    - TX 
+
+#### Introduction to Ethereum
+- Ethereum is a public, blockchain-based distributed computing platform and operating system with smart contract.
+- Execution through the Ethereum Virtual Machine (EVM). 
+- Introduce Gas as a fee for each computational step.
+
+#### The Blockchain Computer
+
+
+
+
