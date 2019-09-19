@@ -49,6 +49,7 @@ version2Hash = hash(version2Changes + version1Hash)
 - Introduce Gas as a fee for each computational step.
 
 #### The Blockchain Computer
+![Blockchain Computer](https://github.com/FernandoFH/Smart_Contract/blob/master/Tezos_Developer/Arch_BlockChaing_B9Lab.JPG)
 
 
 
