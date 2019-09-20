@@ -72,8 +72,33 @@ A successful proof-of-stake system must address the problem of "nothing at stake
 #### Delegated-Proof-of-Stake (DPoS)
 ![Delegated-Proof-of-Stake](https://github.com/FernandoFH/Smart_Contract/blob/master/Tezos_Developer/DPoS.JPG)
 
+#### Proof-of-Burn (PoB)
+Miners must send coins to a "burn" address, of which it is believed nobody owns the private key (i.e. a verifiably un-spendable address). The coins on the “burn” address cannot then be spent due to the absence of a private key.
 
+#### Proof-of-Importance (PoI)
+The starting idea with proof-of-importance (PoI) is to solve the "rich man gets richer" problem that arises in PoS algorithms. Therefore, the protocol rewards network activity based on the so-called "importance score", which is calculated by graph theory.
 
+#### Practical Byzantine Fault Tolerance (PBFT)
+The starting idea with proof-of-importance (PoI) is to solve the "rich man gets richer" problem that arises in PoS algorithms. Therefore, the protocol rewards network activity based on the so-called "importance score", which is calculated by graph theory.
+
+#### Prof-of-Activity (PoA)
+PoA is a combination of PoW and PoS. The miner creates a template with the nonce and deploys it to the network.
+
+#### Proof-of-Capacity (PoC)
+It creates hashes and stores these. Then it selects parts of the data, taking into account the last block header in the blockchain. The selected data is hashed and must fulfill a given difficulty. PoC is utilised in order to be fairer, because memory access times do not vary as much as CPU power.
+
+#### Proof-of-elapsed-time (PoET)
+The key point is the lottery, which must be performed in a trusted execution environment (TEE). For this purpose, Intel offers Software Guard Extensions (SGX) for applications developers.
+
+### Fundamentals
+#### Public key cryptosystems
+#### Public / private key
+- RSA
+- PGP, GnuPG
+
+#### Encrypt and decrypt
+
+#### Sign and verify
 
 
 
