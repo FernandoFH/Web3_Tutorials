@@ -64,7 +64,13 @@ version2Hash = hash(version2Changes + version1Hash)
 Whose armies are spread around a target city, need to reach consensus on a time to attack. To achieve this, they can only rely on unsecured communication channels, whereby, for instance, a lack of acknowledgement can either be caused by a failure to deliver a message, by a dead general or by a failure to deliver the acknowledgment. 
 
 #### Proof-of-Work (PoW)
+This is generally implemented as a search for a random number which when combined with ordered transactions in a block yields a hash function result that matches a criteria such as minimum number of leading zeroes. Finding such a solution is taken as evidence of considerable effort (or proof that considerable work must have been invested in the search).
 
+#### Proof-of-Stake (PoS)
+A successful proof-of-stake system must address the problem of "nothing at stake". That is, randomly-selected validators must face a disincentive for bad behaviour as well as a high probability that bad behaviour will be detected. 
+
+#### Delegated-Proof-of-Stake (DPoS)
+The algorithm is called DPoS because like in PoS the value of a vote is determined by the stake, i.e. tokens held by a user. However, in DPoS systems, there is a fixed validator set. 
 
 
 
