@@ -97,8 +97,16 @@ The key point is the lottery, which must be performed in a trusted execution env
 - PGP, GnuPG
 
 #### Encrypt and decrypt
+![RSA](https://github.com/FernandoFH/Smart_Contract/blob/master/Tezos_Developer/RSA.JPG)
 
 #### Sign and verify
+![Digtal_Signal](https://github.com/FernandoFH/Smart_Contract/blob/master/Tezos_Developer/Digtal_Signal.JPG)
 
+#### Cryptographic hash functions
+- Converts an input, a.k.a. the message, into an output, a.k.a the hash
+- Does the conversion in a reasonable amount of time
+- Is such that it is practically impossible to re-generate the message out of the hash
+- Is such that the tiniest change in the message, changes the hash beyond recognition
+- Is such that it is practically impossible to find 2 different messages with the same hash
 
 
