@@ -70,8 +70,7 @@ This is generally implemented as a search for a random number which when combine
 A successful proof-of-stake system must address the problem of "nothing at stake". That is, randomly-selected validators must face a disincentive for bad behaviour as well as a high probability that bad behaviour will be detected. 
 
 #### Delegated-Proof-of-Stake (DPoS)
-The algorithm is called DPoS because like in PoS the value of a vote is determined by the stake, i.e. tokens held by a user. However, in DPoS systems, there is a fixed validator set. 
-
+![Delegated-Proof-of-Stake](https://github.com/FernandoFH/Smart_Contract/blob/master/Tezos_Developer/DPoS.JPG)
 
 
 
