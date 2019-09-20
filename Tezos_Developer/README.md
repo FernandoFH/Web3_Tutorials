@@ -51,6 +51,24 @@ version2Hash = hash(version2Changes + version1Hash)
 #### The Blockchain Computer
 ![Blockchain Computer](https://github.com/FernandoFH/Smart_Contract/blob/master/Tezos_Developer/Arch_BlockChaing_B9Lab.JPG)
 
+### Introduction to Managed Networks
+
+#### Private blockchains:
+- Can be designed for a limited number of vetted and approved participants.
+- Can be designed for optimised performance.
+- Can be governed by a well-defined agreement between the participants.
+
+### Consensus
+
+#### Byzantine Generals' Problem:
+Whose armies are spread around a target city, need to reach consensus on a time to attack. To achieve this, they can only rely on unsecured communication channels, whereby, for instance, a lack of acknowledgement can either be caused by a failure to deliver a message, by a dead general or by a failure to deliver the acknowledgment. 
+
+#### Proof-of-Work (PoW)
+
+
+
+
+
 
 
 
