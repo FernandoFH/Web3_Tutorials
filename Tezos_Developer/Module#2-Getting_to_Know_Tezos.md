@@ -13,7 +13,7 @@
   - Nnode.
   - Client.
 
-https://github.com/FernandoFH/Smart_Contract/blob/master/Tezos_Developer/Architecture_Overview.JPG
+![Architecture_Overview](https://github.com/FernandoFH/Smart_Contract/blob/master/Tezos_Developer/Architecture_Overview.JPG)
 
 #### The peer-to-peer layer
 #### Liquid Proof of Stake (LPoS)
