@@ -21,3 +21,20 @@
 #### Inflation Funding and On-Chain Bounties
 
 ### Smart Contracts
+
+Smart contracts have several benefits:
+
+- They facilitate the process of forming self-executing contracts through the use of protocols and user interfaces.
+- Smart contracts reduce transaction costs by automating stipulated actions. The need for often costly and time-consuming litigation is potentially reduced drastically, because parties can be forced to comply with the rules and specifications of their contract by including stipulated actions in the underlying code. This makes smart contracts largely self-enforcing.
+
+#### Contract Dimensions and Applying Blockchains
+
+- Observability by contract principals
+- Verifiability by third parties such as auditors and adjudicators
+- And privity
+
+#### Important Dimensions in Contracting
+
+- Observability 
+- Verifiability 
+- Privity 
