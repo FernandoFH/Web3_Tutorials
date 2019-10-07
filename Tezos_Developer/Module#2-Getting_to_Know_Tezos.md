@@ -38,3 +38,7 @@ Smart contracts have several benefits:
 - Observability 
 - Verifiability 
 - Privity 
+
+#### Alphanet
+
+The **alphanet** is the test network of choice for most developers, running the same code as the mainnet and complete with a faucet for free tez to test contracts. 
