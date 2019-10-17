@@ -39,6 +39,12 @@ Smart contracts have several benefits:
 - Verifiability 
 - Privity 
 
+#### There are currently three Tezos networks:
+
+- *Mainnet*, for production, has been live and open since 30 June 2018,
+- *Alphanet*, a test network that runs the same code as the mainnet, and
+- *Zeronet*, a cutting-edge development network that may have different constants from mainnet or alphanet.
+
 #### Alphanet
 
 The **alphanet** is the test network of choice for most developers, running the same code as the mainnet and complete with a faucet for free tez to test contracts. 
