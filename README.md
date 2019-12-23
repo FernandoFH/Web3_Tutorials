@@ -1,27 +1,30 @@
 #### Master Blockchain Development
 - [ ] JavaScript
+- [ ] React
 - [ ] Remix 
 - [ ] Solidity
-- [ ] Ruffle
+- [ ] Web3.js 
 - [ ] Ganache 
+- [ ] Ruffle
 - [ ] Mythrill
 - [ ] Infura 
-- [ ] React
+- [ ] Ethereum Tokens
 - [ ] Ethers.js insted Web3.js
 - [ ] Express 
 - [ ] Redux 
 - [ ] Heroku 
 - [ ] AWS 
 - [ ] Doker & Kubernetes 
+- [ ] IPFS 
 
 #### Tips
 - [ ] Security vulnerabilities
 - [ ] Test your smart contracts
 - [ ] Check test coverage with solidity-coverage
-- [ ]  Run a Solidity linter like Solhint
+- [ ] Run a Solidity linter like Solhint
 - [ ] Use Solidity libraries like Openzeppelin
-- [ ]  Learn how to code Solidity Assembly
-- [ ]  Optimize your smart contract for gas (Gas optimization)
+- [ ] Learn how to code Solidity Assembly
+- [ ] Optimize your smart contract for gas (Gas optimization)
 - [ ] Continuous integration for smart contracts
 - [ ] Learn another smart contract programming language
 
