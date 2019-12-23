@@ -1,0 +1,2 @@
+- The File Explorer of The Remix IDE [Here](https://www.youtube.com/playlist?list=PLbbtODcOYIoH7597VZ4sTXRKJkuhMAqYy)
+- Error types in Solidity: Syntax, Runtime & Logic | Smart contract debugging course [Here](https://www.youtube.com/playlist?list=PLbbtODcOYIoH8PtZ-0ri1GMHug1Jy5aZ1)
