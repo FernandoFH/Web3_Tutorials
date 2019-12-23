@@ -2,13 +2,13 @@
 - [ ] JavaScript
 - [ ] React
 - [ ] Remix 
-- [ ] Solidity
+- [ ] Solidity & Assembly 
 - [ ] Web3.js 
 - [ ] Ganache 
 - [ ] Ruffle
 - [ ] Mythrill
 - [ ] Infura 
-- [ ] Ethereum Tokens
+- [ ] Ethereum Tokens & EVM
 - [ ] Ethers.js insted Web3.js
 - [ ] Express 
 - [ ] Redux 
@@ -26,8 +26,9 @@
 - [ ] Learn how to code Solidity Assembly
 - [ ] Optimize your smart contract for gas (Gas optimization)
 - [ ] Continuous integration for smart contracts
-- [ ] Learn another smart contract programming language
-
+- [ ] Proof-of-Work & Proof-of-Stake
+- [ ] CI/CD 
+- [ ] IDS, DDoS, SIEM, WAF, HSM
 _____
 #### Smart Contract
 * [Cryptozombies](https://cryptozombies.io/es/course)
