@@ -29,6 +29,15 @@
 - [ ] Proof-of-Work & Proof-of-Stake
 - [ ] CI/CD 
 - [ ] IDS, DDoS, SIEM, WAF, HSM
+
+#### Tips UI/UX of your dapp
+- [ ] Have a "read-only mode" for users without wallets
+- [ ] Support multiple wallets
+- [ ] Don’t trigger Metamask Dapp approval popup too early
+- [ ] Describes clearly the effects of transactions
+- [ ] Show feedback after sending transactions
+- [ ] Keep the UI up-to-date with smart contract data
+
 _____
 #### Smart Contract
 * [Cryptozombies](https://cryptozombies.io/es/course)
