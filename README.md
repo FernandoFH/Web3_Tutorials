@@ -38,6 +38,18 @@
 - [ ] Show feedback after sending transactions
 - [ ] Keep the UI up-to-date with smart contract data
 
+#### Tips to gas optimization
+- [ ] Minimize on-chain data
+- [ ] Use libraries 
+- [ ] Use ERC 1167 for cloning contract
+- [ ] Turn on the solidity optimizer
+- [ ] Use events
+- [ ] Write literal values instead of computed one
+- [ ] Avoid to copy stuff (arrays…), use storage pointer instead
+- [ ] Avoid for-loops over dynamic ranges
+- [ ] Optimize the order of variable declarations
+- [ ] Use eth-gas-reporter
+
 _____
 #### Smart Contract
 * [Cryptozombies](https://cryptozombies.io/es/course)
