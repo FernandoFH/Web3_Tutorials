@@ -24,4 +24,5 @@ contract MyNFT is ERC721Full, ERC721Mintable {
 #### Install OpenZeppelin in a Truffle smart contract project
 
 ``` npm init -y ```
+
 ``` npm install @openzeppelin/contracts ```
