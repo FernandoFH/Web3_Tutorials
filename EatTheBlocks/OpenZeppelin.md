@@ -103,7 +103,23 @@ contract ICO is Crowdsale, PostDeliveryCrowdsale, IncreasingPriceCrowdsale {
   ) Crowdsale(rate,wallet,token) PostDeliveryCrowdsale() IncreasingPriceCrowdsale() public {}
 }
 ```
+#### Pausable Smart contracts 
+``` 
+pragma solidity ^0.5.0;
 
+import "@oopenzeppelin-contracts/contracts/lifecycle/Pausable.sol";
 
+openzeppelin-contracts/contracts/access/roles/PauserRole.sol
 
+contract MyContract is Pausable {
+  constructor() Pausable() public {}
 
+function foo() whenNotPaused() external {
+     //Do something 
+  }
+  
+function foo() whenPaused() external {
+     //Do something 
+  }
+}
+```
