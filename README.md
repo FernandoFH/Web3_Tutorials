@@ -5,17 +5,19 @@
 - [ ] Solidity & Assembly 
 - [ ] Web3.js 
 - [ ] Ganache 
-- [ ] Ruffle
+- [ ] Truffle 
 - [ ] Mythrill
+- [ ] Geth 
 - [ ] Infura 
 - [ ] Ethereum Tokens & EVM
 - [ ] Ethers.js insted Web3.js
 - [ ] Express 
 - [ ] Redux 
+- [ ] Doker & Kubernetes 
 - [ ] Heroku 
 - [ ] AWS 
-- [ ] Doker & Kubernetes 
 - [ ] IPFS 
+- [ ] 0x  
 
 #### Tips
 - [ ] Security vulnerabilities
@@ -25,6 +27,7 @@
 - [ ] Use Solidity libraries like Openzeppelin
 - [ ] Learn how to code Solidity Assembly
 - [ ] Optimize your smart contract for gas (Gas optimization)
+- [ ] Ethgasstation.info
 - [ ] Continuous integration for smart contracts
 - [ ] Proof-of-Work & Proof-of-Stake
 - [ ] CI/CD 
