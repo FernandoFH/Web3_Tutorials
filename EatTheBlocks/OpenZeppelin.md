@@ -123,3 +123,13 @@ function foo() whenPaused() external {
   }
 }
 ```
+#### Reentrancy Attack with a Reentrancy Guard (Solidity / OpenZeppelin)
+
+``` 
+pragma solidity ^0.5.0;
+
+import "@openzeppelin-contracts/contracts/utils/ReentrancyGuard.sol";
+
+```
+
+
