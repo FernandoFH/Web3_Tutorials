@@ -1,3 +1,9 @@
+#### Smart Contract
+* [Cryptozombies](https://cryptozombies.io/es/course)
+* [Zeppelin](https://ethernaut.openzeppelin.com/)
+* [Truffle](https://www.trufflesuite.com/tutorials)  
+* [Tezos Developer](http://academy.b9lab.com/courses)
+
 #### Master Blockchain Development
 - [ ] JavaScript
 - [ ] React
@@ -52,9 +58,3 @@
 - [ ] Avoid for-loops over dynamic ranges
 - [ ] Optimize the order of variable declarations
 - [ ] Use eth-gas-reporter
-
-_____
-#### Smart Contract
-* [Cryptozombies](https://cryptozombies.io/es/course)
-* [Nicolas Palacio](https://www.youtube.com/playlist?list=PLVR6_kyVYQd7z0CeV9xcy-gf6jKrO6cTP)
-* [Tezos Developer](http://academy.b9lab.com/courses)
