@@ -1,5 +1,5 @@
 #### Smart Contract
-* [Cryptozombies](https://cryptozombies.io/es/course)
+* [Cryptozombies](https://cryptozombies.io/)
 * [Zeppelin](https://ethernaut.openzeppelin.com/)
 * [Truffle](https://www.trufflesuite.com/tutorials)  
 * [Tezos Developer](http://academy.b9lab.com/courses)
