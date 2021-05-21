@@ -3,6 +3,7 @@
 * [Zeppelin](https://ethernaut.openzeppelin.com/)
 * [Truffle](https://www.trufflesuite.com/tutorials)  
 * [Tezos Developer](http://academy.b9lab.com/courses)
+* [Oraclize](https://docs.oraclize.it)
 
 #### Master Blockchain Development
 - [ ] JavaScript
@@ -58,3 +59,64 @@
 - [ ] Avoid for-loops over dynamic ranges
 - [ ] Optimize the order of variable declarations
 - [ ] Use eth-gas-reporter
+- [ ] Developing test software
+
+----- 
+* Flexbox
+* Cssgrid
+* Google Material Design
+* SASS & LESS (PreProcesadores) 
+* WebPack & Babel
+
+* GraphQL
+* Event-driven
+* TDD
+* Server Sent envent (SSE)
+* Server-Side Langages
+* Server-Side Rendering
+
+* JavaScript Design Patterns (YAGNI, KISS, SOLID) 
+* Principles of Single Page Applications
+* Architecting Front-End Applications
+* Testing for Front-End Devs
+* High Performing Code in JS
+* Progressive Web Apps
+* Site Performance Optimization
+* Unit testing
+* Services Worked
+* Micro-service architecture
+* Agile Methodology
+* GPU parallel computing
+* HTTPS and RESTful APIs
+
+- ReactJS
+	- Routes
+	- Navigation 
+	- Security
+	- Hooks
+	- Testing Library
+	- Next.js
+	- Redux
+	- Flux Architecture
+	- MobX
+	- SSR 
+- DevOps 
+	- Docker
+	- Kubernetes
+	- [Heroku](https://www.heroku.com/) (Backend Deploy)
+	- DigitalOcean 	
+	- AWS
+	- GCP 
+	- Azure
+	- Terraform
+	- GitLab CI/CD
+	- PaaS
+	- SaaS
+	- Nginx
+- BBDD
+	- MongoDB
+	- Redis
+	- ElasticSearch
+	- Postgres
+	- RDMS
+
