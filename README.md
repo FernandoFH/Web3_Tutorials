@@ -6,7 +6,7 @@
 * [Oraclize](https://docs.oraclize.it)
 
 #### Master Blockchain Development
-- [ ] JavaScript
+- [X] JavaScript
 - [ ] React
 - [ ] Remix 
 - [ ] Solidity & Assembly 
