@@ -8,7 +8,6 @@
 * [learn-evm-attacks](https://github.com/FernandoFH/learn-evm-attacks)    
 * [DeFiVulnLabs](https://github.com/FernandoFH/DeFiVulnLabs)
 * [Awesome-Ethereum](https://github.com/FernandoFH/Awesome-Ethereum)
-* [Awesome-Smart-Contracts-Notes](https://github.com/FernandoFH/Awesome-Smart-Contracts-Notes)
 * [DeFi-Security-Summit-Stanford](https://github.com/FernandoFH/DeFi-Security-Summit-Stanford)
 --- 
 #### Smart Contract
