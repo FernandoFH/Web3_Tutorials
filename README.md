@@ -1,8 +1,56 @@
 - Js/Ts (Node)
+  - Varibles
+  - Tipos de datos
+  - Estructuras
+  - Funciones
+  - Array, Objetos
+  - Asincronia
+  - Fetch
+    
+- React Js
+  - JSX
+  - Componebtes
+  - Props
+  - Estados
+  - Manejo de Eventos
+
+- React Router
+- Manejo de Estados
+- Context API
+- Redux
+- Zustand
+
+- Hooks de React
+  - UseState
+  - useEffect
+  - useContex
+  - useReducer
+  - useId
+  - useMemo
+  - useCallback
+
+- CSS
+  - Estilos 
+ 
+- React Tenstack Query 
+- React Tenstack tables 
+- React Select
+- Drop Kit 
+
+- UI Libraries
+  - TailwindCSS
+    - chadcn
+    - nextui
+
+- Tetsing
+  - Testing Library
+  - Playwright
+  - Jest   
+
+- https://nextjs.org/learn/react-foundations
+
   - https://eloquentjs-es.thedojo.mx/
   - https://github.com/You-Dont-Know-JS-ES/Traduccion
-- React Js 
-- https://nextjs.org/learn/react-foundations
 
 * [Cryptozombies](https://cryptozombies.io/)
 * [Ethers](https://docs.ethers.org/v5/)
