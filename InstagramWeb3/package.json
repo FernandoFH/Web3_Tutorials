@@ -1,0 +1,14 @@
+{
+  "name": "instagramweb3",
+  "version": "1.0.0",
+  "description": "Clases completas en [Youtube](https://www.youtube.com/playlist?list=PL2uIxLJ7G8e2Y825VjgxsB8jXxTW5Tp9w) Gracias al Buen [Gilberts Ahumada](https://x.com/gilbertsahumada)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "compile": "cd hardhat && npx hardhat compile", 
+    "start-front": "cd react && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
